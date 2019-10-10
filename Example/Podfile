@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Hipro_Example' do
+  pod 'Hipro', :path => '../'
+
+  target 'Hipro_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
