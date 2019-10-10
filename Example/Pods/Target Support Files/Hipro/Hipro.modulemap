@@ -1,0 +1,6 @@
+framework module Hipro {
+  umbrella header "Hipro-umbrella.h"
+
+  export *
+  module * { export * }
+}

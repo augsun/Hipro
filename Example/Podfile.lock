@@ -1,0 +1,16 @@
+PODS:
+  - Hipro (0.1.0)
+
+DEPENDENCIES:
+  - Hipro (from `../`)
+
+EXTERNAL SOURCES:
+  Hipro:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Hipro: c9394ace56e227e160704c020e75cb54369c71e1
+
+PODFILE CHECKSUM: 390c1ddd79786bf80e16b809b4f536c8a178394c
+
+COCOAPODS: 1.7.4

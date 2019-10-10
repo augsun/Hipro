@@ -1,0 +1,6 @@
+framework module Pods_Hipro_Example {
+  umbrella header "Pods-Hipro_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
